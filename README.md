@@ -1,6 +1,6 @@
 # upgraded-octo-guacamole
 
 ## Why this project?
-I want to create a new system who myself will add some photo to have 8 beautiful pictures of guacamole.
+I just want to have a repository with guacamole picture if needed. This project reflect my open-sources contributions when I'm not on Github.
 
 
